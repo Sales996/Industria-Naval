@@ -1,0 +1,14 @@
+body{
+   background-image:url("img/navioescop.jpg") ;
+   
+}
+
+.container-fluid{
+  background: linear-gradient(to right, #203161, #4865c5);
+    height: 30vh;
+}
+#navios{
+    color: white;
+}
+
+
